@@ -28,5 +28,16 @@ The analysis of the election showed that:
     - Diana DeGette receiving 272,892 votes or 73.8% of the votes.
 
 ## Challenge Overview
-
+In the challenge, we were tasked with finding out which county had the highest voter turnout in the congressional district during this election.
 ## Challenge Summary
+- This challenge showed that there was 3 counties within this congressional district.
+- The three counties were
+    - Jefferson
+    - Denver
+    - Arapahoe
+- There were a total of 369,711 votes and the breakdown by county was:
+    - Jefferson had 38,855 votes or 10.5% of the total votes.
+    - Denver had 306,055 votes or 82.8% of the total votes.
+    - Arapahoe had 24,801 votes or 6.7% of the total votes.
+- With this information, the county with the most turn out was Denver.
+- With this scriptI believe you could modify it to go out to the state level and see what states were more impactuful in a national election. Also, you could modify it down and make it simpler to be used for a school election by changing the counties into grade level and then have mulitple candidate races with repeated code just changinng the numbers and the names.
